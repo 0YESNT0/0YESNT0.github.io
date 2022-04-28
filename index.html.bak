@@ -75,7 +75,7 @@
                         </li>
                     </ul>
 					<h6 class="pt-3">papajhonhil@gmail.com</h6>
-					<h6 class="pt-3">Software Development/h6>
+					<h6 class="pt-3">Software Development</h6>
                 </div>
                 <!--/panel body-->
             </div>
@@ -85,7 +85,7 @@
         <!--mid column-->
         <div class="col-lg-3">
             <div class="card rounded-0 border-right-0 border-left-0 fixed" id="midCol">
-                <div class="card-header rounded-0 text-light bg-dark bold">Introduction</div>
+                <div class="card-header rounded-0 text-light bg-dark bold">Introduction to Media Literacy</div>
                 <div class="card-body rounded-0 indent table-info">
                     <p>Media Literacy is the ability of a person to distinguish different forms of media, identify its roles in culture,
 					and think critically about the information obtained and the message of it. 
@@ -143,8 +143,31 @@
 						In order to choose a proper source, one should be able to identify if the information is reliable or credible. According to Science Buddies (n.d.) good information comes from a credible source, not too old, not biased, free of errors, properly cites the source of the information and is easy for people to obtain. But when using the internet, its not easy to identify if the source is credible. According to a page by Notre Dame de Namur University(NDNU),  Website Domains with “.edu”, “.gov”, or “.org” have more legitimacy than ones with “.com” in their link.
 					</p>
                     
-					<hr>
-					<h2 class="InformationBG px-1">Final Note</h2>
+					 <hr>
+                    <h2 id="reliableinformation" class="InformationBG px-1">What To Do With reliable Information</h2>
+					<p>
+						Be knowledgable and spread facts to people and help avoid misinformation.													
+					</p>
+					<img src="images\Media_Poster-Media Literacy.png" class="img-fluid float-right">
+					
+					<div class="row center px-3">   
+                            <h1>Don't Spread Fake News!</h1>                        
+                    </div>			           					
+                    <hr>					
+					<br>
+					
+					<h2 id="reliableinformation" class="InformationBG px-1">How Media can Manipulate Us</h2>
+					<p class="indent">
+						As a student, manipulative information and media can affect us with how we receive correct information, as it is common for students to do research or get reference materials for the subjects, there can be sources that manipulate it to give false information, or incomplete and biased information. It can also shape our beliefs if we encounter manipulated information too frequently.													
+					</p>
+					<p class="indent">
+						Multimedia information can be a great help to those who want to learn something as certain people learn better through listening, or reading, seeing or by doing, this in turn gives them options on how they want to learn specific skills. Thus improving their skill set for the future.
+					</p>
+					<p class="indent">
+						In order to evaluate the reliability and validity of multimedia information, we should always check for the source, then see if they used scientific or other reliable information sources as reference, next, try to compare the information with other similar topics or sources, so that you can identify inconsistencies, or lack of explanations of the information.
+					</p>
+					
+					<h2 class="InformationBG" >Final Note</h2>
 					<p>
 						Remember to consume media responsibly, with the current situation and the amount of chaos thats happening, dont force your self to take it all in, and dont forget to enjoy your self with some M E M E S.
 					</p>
